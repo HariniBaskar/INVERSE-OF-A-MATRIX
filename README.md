@@ -14,12 +14,14 @@ Using the np.linalg.inv(), we can find the inverse of the given matrix.
 ### Step 4: 
 End the program
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by: Harini.B
 #RegisterNumber: 21000879
 import numpy as np
 A= np.array([[6,2,3],[3,1,1],[10,3,4]])
 print(np.linalg.inv(A))
+```
 ## Output:
 ![image](./Capture.PNG)
 ## Result:
